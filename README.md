@@ -22,9 +22,9 @@ I’ll **add Pipeline Flow and Strategies section** in professional GitHub forma
 ---
 
 ## 🏗️ Architecture Diagram
-
-
-![Uploading ChatGPT Image Mar 4, 2026, 10_57_58 AM.png…]()
+<p align="center">
+  <img src="![Uploading ChatGPT Image Mar 4, 2026, 10_57_58 AM.png…]()" width="900"/>
+</p>
 
 ---
 
